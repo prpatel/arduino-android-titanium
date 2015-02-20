@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Wrapper for the Android-Arduino library
+author: @prpatel
+license: MIT
+copyright: @prpatel
+
+
+# these should not be edited
+name: arduino_android
+moduleid: com.mypatelspace.arduino
+guid: 01716f54-5ff7-474b-b40c-ddc5cd18f0ce
+platform: android
+minsdk: 3.2.3.GA
